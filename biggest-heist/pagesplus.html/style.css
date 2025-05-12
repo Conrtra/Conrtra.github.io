@@ -1,0 +1,32 @@
+
+
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color:chartreuse;
+    background-color: black;
+
+
+}
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(255, 242, 0);
+    background-color: black; 
+}
+
+a {
+    color: aliceblue;
+}
+
+h5 {
+    font-family: 'Times New Roman', Times, serif;
+    color:crimson; 
+    background-color: black;
+}
+
+
+P {
+    font-family: 'Courier New', Courier, monospace;
+    color:chartreuse;
+    background-color: black;
+}
